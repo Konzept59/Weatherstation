@@ -2,7 +2,7 @@
 
 In this repository the program for a part of the weather station (wind speed, wind direction, temperature, air pressure and humidity) is completed.
 
-At the moment the following sensors are integrated:
+**At the moment the following sensors are integrated:**
 
 * Windgeschwindigkeit
   * Pro-D Anemometer (Davis 6410)
