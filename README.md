@@ -44,3 +44,13 @@ Quelle: https://learn.adafruit.com/assets/53438
 ![Wendy-41 WendySENSE - Systemübersicht - Blockschaltbild drawio (1)](https://user-images.githubusercontent.com/131675403/234001304-1cb7f916-e31d-4982-82ee-79dde7ad8e32.png)
 
 Quelle: Julian Tschernitsch (C)
+
+
+## **Sources** ## 
+* https://forum.arduino.cc/t/solved-adafruit-bme280-temp-humidity-barometric-pressure-sensor/431976/22
+* https://learn.adafruit.com/assets/53438
+* https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout?view=all
+* https://iotspace.dev/arduino-dht22-auslesen-temperatur-und-luftfeuchtesensor/
+* https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/#:~:text=Wiring%20DHT11%20and%20DHT22%20Sensors%20to%20an%20Arduino,-Now%20it's%20time&text=Connecting%20DHT%20sensors%20to%20Arduino,pin%20to%20digital%20pin%20%238.
+* https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+* https://www.makershop.de/bme280-sensor-arduino-nano/
