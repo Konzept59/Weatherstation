@@ -18,6 +18,22 @@ In this repository the program for a part of the weather station (wind speed, wi
 * "adafruit/DHT sensor library@^1.4.4"
 * "adafruit/Adafruit BME280 Library@^2.2.2"
 * "adafruit/Adafruit BMP280 Library@^2.6.6"
+
+## Software used ##
+* Visual Studio Code
+ * Version: 1.77.3 (user setup)
+   Commit: 704ed70d4fd1c6bd6342c436f1ede30d1cff4710
+   Date: 2023-04-12T09:16:02.548Z
+   Electron: 19.1.11
+   Chromium: 102.0.5005.196
+   Node.js: 16.14.2
+   V8: 10.2.154.26-electron.0
+   OS: Windows_NT x64 10.0.22621
+   Sandboxed: No
+* PlatformIO 
+  * Core: 6.1.6
+    Home: 3.4.3
+
   
 
 ## Connection diagram and System overview ## 
