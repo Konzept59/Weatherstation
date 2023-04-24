@@ -21,7 +21,7 @@ In this repository the program for a part of the weather station (wind speed, wi
 
 ## Software used ##
 * Visual Studio Code
- * Version: 1.77.3 (user setup)
+  * Version: 1.77.3 (user setup)
    Commit: 704ed70d4fd1c6bd6342c436f1ede30d1cff4710
    Date: 2023-04-12T09:16:02.548Z
    Electron: 19.1.11
