@@ -41,7 +41,8 @@ In this repository the program for a part of the weather station (wind speed, wi
 Quelle: https://learn.adafruit.com/assets/53438
 
 
-![Wendy-41 WendySENSE - Systemübersicht - Blockschaltbild drawio (1)](https://user-images.githubusercontent.com/131675403/234001304-1cb7f916-e31d-4982-82ee-79dde7ad8e32.png)
+![Wendy-41 WendySENSE - Systemübersicht - Blockschaltbild drawio](https://user-images.githubusercontent.com/131675403/234275768-30142344-0d19-49a9-a158-472b1f21191c.png)
+
 
 Quelle: Julian Tschernitsch (C)
 
